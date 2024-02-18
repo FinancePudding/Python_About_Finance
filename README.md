@@ -44,6 +44,7 @@
 > + 开源模型网址：[https://github.com/QwenLM/Qwen](https://github.com/QwenLM/Qwen)
 > + 开源的大模型比较适合小公司基于个人数据进行微调，形成自己的大模型，以降低企业成本。
 > + 开源的相关文档比较全面清晰，环境配置简单。
+
 # 2.数据获取网站
 > 推荐一些在量化投资过程中方便获取证券市场的数据网站
 ## 2.1 Tushare数据社区
@@ -73,3 +74,17 @@
 ## 3.3 Investing
 > 输入中文也可以搜索到对应的国际市场相关股票  
 > 网址：[https://cn.investing.com/](https://cn.investing.com/)
+# 4.爬虫相关资源
+## 4.1 《python3 网络爬虫开发实战》
+> 网址——Github仓库：[https://github.com/Python3WebSpider/Python3WebSpider](https://github.com/Python3WebSpider/Python3WebSpider)  
+> 简介：爬虫介绍的内容十分的全面，很适合新手入门。  
+## 4.2 网课
+> **平台**：哔哩哔哩  
+> **网课名**：尚硅谷python爬虫教程小白零基础速通  
+> **简介**：讲课老师很幽默，讲解的案例很详细，可以配合上面的书一起使用。
+## 4.3 代理网站
+> **免费代理网站**
+> * **89免费代理**：[https://www.89ip.cn/index.html](https://www.89ip.cn/index.html)
+> * **云代理**：[http://www.ip3366.net/free/](http://www.ip3366.net/free/)
+> * **小幻HTTP代理**：[https://ip.ihuan.me/](https://ip.ihuan.me/)
+> * **快代理**：[https://www.kuaidaili.com/free/](https://www.kuaidaili.com/free/)
