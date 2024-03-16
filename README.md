@@ -1,8 +1,7 @@
 # python about finance
 > 本仓库主要用于分享在量化投资领域的学习经验
-> + 目前主要分享《基于python的金融分析与风险管理》斯文 第二版这本教材的代码内容。
 > + 相关视频讲解可以关注哔哩哔哩账户“金融Pudding”
-> + > <img src="https://github.com/FinancePudding/Python_About_Finance/blob/main/assets/bilibil.jpg" width="270" height="353">   
+> + > + > <img src="https://github.com/FinancePudding/Python_About_Finance/blob/main/assets/bilibil.jpg" width="270" height="353">   
 > + 分享的内容不仅仅包含书本上的东西，同时还包含本人在量化投资领域的学习经验，以及相关资源的拓展。
 > + 随时欢迎各位留言交流，大家共同学习进步！
 # 常用的量化投资学习资源
@@ -46,44 +45,57 @@
 > + 开源的大模型比较适合小公司基于个人数据进行微调，形成自己的大模型，以降低企业成本。
 > + 开源的相关文档比较全面清晰，环境配置简单。
 
-# 2.数据获取网站
+# 2.人工智能云计算平台
+> * [**Vastai**](https://vast.ai/)
+> * [**Huggingface**](https://huggingface.co/pricing#endpoints)
+> * [**Google Colaborator**](https://colab.research.google.com)
+> * [**阿里云**](https://www.aliyun.com/)
+> * [**百度智能云**](https://cloud.baidu.com/product-price/bml.html)
+> * [**腾讯云**](https://cloud.tencent.com/document/product/851/74108)
+> * [**阿里旗下modelscope社区**](https://www.modelscope.cn/datasets)
+# 3.人工智能API接口和文档
+> * [**openai**](https://platform.openai.com/docs/introduction)
+> * [**Azure**](https://learn.microsoft.com/en-us/azure/ai-services/openai/)
+> * [**阿里云灵积**](https://help.aliyun.com/zh/dashscope/developer-reference/)
+
+# 4.数据获取网站
 > 推荐一些在量化投资过程中方便获取证券市场的数据网站
-## 2.1 Tushare数据社区
+## 4.1 Tushare数据社区
 > 使用十分的方便，但是需要有一定的积分才能具有相应的数据权限。
 > + 网址：[https://tushare.pro/](https://tushare.pro/)
 > + 有Python的API接口，连接十分方便，注册成功并完善信息可以获得120积分，通过推荐新人注册可以获取相应的积分，但是最高只能刷到660积分
 > + 淘宝上有出售相应端口的使用字符串的，100元一年5000积分，数据调取方便，推荐使用。
 > + 使用教程可以在本人的哔哩哔哩上查看
-## 2.2 CSMAR数据库
+## 4.2 CSMAR数据库
 > 需要购买才能获取相关数据权限
 > + 网址：[https://data.csmar.com/](https://data.csmar.com/)
 > + 如果学校已经购买可以通过学校的教育邮箱进行注册，获取同样的数据权限。
 > + 有Python的API接口，可以直接安装调用，具体安装连接教程见本人哔哩哔哩视频号。
-## 2.3 Wind金融终端
+## 4.3 Wind金融终端
 > 学校购买，只能在固定机位使用和调取数据
-## 2.4 choice金融终端
+## 4.4 choice金融终端
 > 可以通过学生认证，免费查看一些行业研报和股票数据。
 > 部分申万行业指数能够查看，同时具有一些宏观和行业数据可以调取使用。
-## 2.5 CEIC数据库
+## 4.5 CEIC数据库
 > 学校购买的宏观数据库，获取一些国际数据和中国宏观数据相对比较方便。
 > 可以通过学校的VPN离校访问登录
-# 3.国际证券市场信息获取网站
-## 3.1 Yahoo Finance
+# 5.国际证券市场信息获取网站
+## 5.1 Yahoo Finance
 > 网址：[https://github.com/rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)
-## 3.2 Google Finance
+## 5.2 Google Finance
 > 网址：[https://www.google.com/finance/?hl=zh](https://www.google.com/finance/?hl=zh)
-## 3.3 Investing
+## 5.3 Investing
 > 输入中文也可以搜索到对应的国际市场相关股票  
 > 网址：[https://cn.investing.com/](https://cn.investing.com/)
-# 4.爬虫相关资源
-## 4.1 《python3 网络爬虫开发实战》
+# 6.爬虫相关资源
+## 6.1 《python3 网络爬虫开发实战》
 > 网址——Github仓库：[https://github.com/Python3WebSpider/Python3WebSpider](https://github.com/Python3WebSpider/Python3WebSpider)  
 > 简介：爬虫介绍的内容十分的全面，很适合新手入门。  
-## 4.2 网课
+## 6.2 网课
 > **平台**：哔哩哔哩  
 > **网课名**：尚硅谷python爬虫教程小白零基础速通  
 > **简介**：讲课老师很幽默，讲解的案例很详细，可以配合上面的书一起使用。
-## 4.3 代理网站
+## 6.3 代理网站
 > **免费代理网站**
 > * **89免费代理**：[https://www.89ip.cn/index.html](https://www.89ip.cn/index.html)
 > * **云代理**：[http://www.ip3366.net/free/](http://www.ip3366.net/free/)
