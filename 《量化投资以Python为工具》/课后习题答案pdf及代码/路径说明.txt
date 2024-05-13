@@ -1,0 +1,15 @@
+﻿在执行代码时，需要先设定相对路径。
+
+请将PythonANS.zip解压缩到您电脑中的位置，
+比如D盘Document文件夹。
+在执行代码前，先执行下面代码
+
+
+import os
+
+os.chdir('D:/Document/PythonANS')
+
+
+
+然后再运行代码文件中的代码。
+

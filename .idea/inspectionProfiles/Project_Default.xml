@@ -1,0 +1,19 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="6">
+            <item index="0" class="java.lang.String" itemvalue="prepare" />
+            <item index="1" class="java.lang.String" itemvalue="nvidia-smi" />
+            <item index="2" class="java.lang.String" itemvalue="spyder" />
+            <item index="3" class="java.lang.String" itemvalue="3rd" />
+            <item index="4" class="java.lang.String" itemvalue="arch" />
+            <item index="5" class="java.lang.String" itemvalue="anaconda-navigator" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
