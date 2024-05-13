@@ -5,189 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="76ee8233-2f76-4b73-99d1-45f92b919103" name="更改" comment="">
-      <change beforePath="$PROJECT_DIR$/Quant_Books.md" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/Quant_Books.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《基于python的金融分析与风险管理》/1. 结合金融演示python的基本操作.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《基于python的金融分析与风险管理》/1. 结合金融演示python的基本操作.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《基于python的金融分析与风险管理》/2. 结合金融场景演示Numpy模块编程.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《基于python的金融分析与风险管理》/2. 结合金融场景演示Numpy模块编程.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《基于python的金融分析与风险管理》/3. pandas基础函数.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《基于python的金融分析与风险管理》/3. pandas基础函数.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《基于python的金融分析与风险管理》/3.1 pandas量化实习常用函数.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《基于python的金融分析与风险管理》/3.1 pandas量化实习常用函数.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《基于python的金融分析与风险管理》/3.2 pandas量化实习常用函数.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《基于python的金融分析与风险管理》/3.2 pandas量化实习常用函数.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/《量化投资 以Python为工具》数据和程序/001/SH50 Price.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/数据和程序/001/SH50 Price.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/《量化投资 以Python为工具》数据和程序/001/SH50 Price.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/数据和程序/001/SH50 Price.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/《量化投资 以Python为工具》数据和程序/002/test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/数据和程序/002/test.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/《量化投资 以Python为工具》数据和程序/002/test1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/数据和程序/002/test1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/《量化投资 以Python为工具》数据和程序/002/test2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/数据和程序/002/test2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/《量化投资 以Python为工具》数据和程序/002/testST.py" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/数据和程序/002/testST.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/《量化投资 以Python为工具》数据和程序/003/003.py" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/数据和程序/003/003.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/《量化投资 以Python为工具》数据和程序/004/addTurples.py" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/数据和程序/004/addTurples.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/《量化投资 以Python为工具》数据和程序/004/testST.py" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/数据和程序/004/testST.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/《量化投资 以Python为工具》数据和程序/005/005.py" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/数据和程序/005/005.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/《量化投资 以Python为工具》数据和程序/006/006.py" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/数据和程序/006/006.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/《量化投资 以Python为工具》数据和程序/007/007.py" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/数据和程序/007/007.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/《量化投资 以Python为工具》数据和程序/008/AssetClass.py" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/数据和程序/008/AssetClass.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/《量化投资 以Python为工具》数据和程序/009/pmath.py" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/数据和程序/009/pmath.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/《量化投资 以Python为工具》数据和程序/009/priceAnalysis.py" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/数据和程序/009/priceAnalysis.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/《量化投资 以Python为工具》数据和程序/009/priceAnalysis_v02.py" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/数据和程序/009/priceAnalysis_v02.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/《量化投资 以Python为工具》数据和程序/010/010.py" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/数据和程序/010/010.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/《量化投资 以Python为工具》数据和程序/011/011.py" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/数据和程序/011/011.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/《量化投资 以Python为工具》数据和程序/011/ChinaBank.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/数据和程序/011/ChinaBank.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/《量化投资 以Python为工具》数据和程序/011/untitled0.py" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/数据和程序/011/untitled0.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/《量化投资 以Python为工具》数据和程序/012/012.py" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/数据和程序/012/012.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/《量化投资 以Python为工具》数据和程序/012/ChinaBank.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/数据和程序/012/ChinaBank.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/《量化投资 以Python为工具》数据和程序/013/history.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/数据和程序/013/history.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/《量化投资 以Python为工具》数据和程序/013/retdata.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/数据和程序/013/retdata.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/《量化投资 以Python为工具》数据和程序/014/TRD_Index.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/数据和程序/014/TRD_Index.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/《量化投资 以Python为工具》数据和程序/014/return300.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/数据和程序/014/return300.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/《量化投资 以Python为工具》数据和程序/015/TRD_Index.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/数据和程序/015/TRD_Index.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/《量化投资 以Python为工具》数据和程序/015/TRD_Index.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/数据和程序/015/TRD_Index.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/《量化投资 以Python为工具》数据和程序/016/PSID.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/数据和程序/016/PSID.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/《量化投资 以Python为工具》数据和程序/016/TRD_Year.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/数据和程序/016/TRD_Year.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/《量化投资 以Python为工具》数据和程序/017/Penn World Table.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/数据和程序/017/Penn World Table.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/《量化投资 以Python为工具》数据和程序/017/TRD_Index.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/数据和程序/017/TRD_Index.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/《量化投资 以Python为工具》数据和程序/018/018.py" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/数据和程序/018/018.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/《量化投资 以Python为工具》数据和程序/018/DalianRP.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/数据和程序/018/DalianRP.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/《量化投资 以Python为工具》数据和程序/018/SAPower.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/数据和程序/018/SAPower.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/《量化投资 以Python为工具》数据和程序/018/stockszA.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/数据和程序/018/stockszA.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/《量化投资 以Python为工具》数据和程序/019/019.py" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/数据和程序/019/019.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/《量化投资 以Python为工具》数据和程序/019/ret.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/数据和程序/019/ret.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/《量化投资 以Python为工具》数据和程序/019/stock.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/数据和程序/019/stock.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/《量化投资 以Python为工具》数据和程序/020/020.py" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/数据和程序/020/020.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/《量化投资 以Python为工具》数据和程序/020/TRD_Index_20.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/数据和程序/020/TRD_Index_20.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/《量化投资 以Python为工具》数据和程序/020/xin_an.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/数据和程序/020/xin_an.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/《量化投资 以Python为工具》数据和程序/021/021.py" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/数据和程序/021/021.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/《量化投资 以Python为工具》数据和程序/021/ThreeFactors.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/数据和程序/021/ThreeFactors.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/《量化投资 以Python为工具》数据和程序/021/stock.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/数据和程序/021/stock.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/《量化投资 以Python为工具》数据和程序/022/022.py" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/数据和程序/022/022.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/《量化投资 以Python为工具》数据和程序/022/TRD_Index_22.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/数据和程序/022/TRD_Index_22.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/《量化投资 以Python为工具》数据和程序/023/023.py" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/数据和程序/023/023.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/《量化投资 以Python为工具》数据和程序/023/TRD_Index.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/数据和程序/023/TRD_Index.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/《量化投资 以Python为工具》数据和程序/023/TRD_Index2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/数据和程序/023/TRD_Index2.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/《量化投资 以Python为工具》数据和程序/024/024.py" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/数据和程序/024/024.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/《量化投资 以Python为工具》数据和程序/024/CPI.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/数据和程序/024/CPI.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/《量化投资 以Python为工具》数据和程序/024/Datang.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/数据和程序/024/Datang.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/《量化投资 以Python为工具》数据和程序/024/Datang_adjcl.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/数据和程序/024/Datang_adjcl.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/《量化投资 以Python为工具》数据和程序/024/Datang_cl.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/数据和程序/024/Datang_cl.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/《量化投资 以Python为工具》数据和程序/024/TRD_Index2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/数据和程序/024/TRD_Index2.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/《量化投资 以Python为工具》数据和程序/024/exchange.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/数据和程序/024/exchange.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/《量化投资 以Python为工具》数据和程序/024/exchange.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/数据和程序/024/exchange.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/《量化投资 以Python为工具》数据和程序/025/025.py" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/数据和程序/025/025.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/《量化投资 以Python为工具》数据和程序/025/TRD_Index2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/数据和程序/025/TRD_Index2.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/《量化投资 以Python为工具》数据和程序/025/TRD_IndexSum.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/数据和程序/025/TRD_IndexSum.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/《量化投资 以Python为工具》数据和程序/025/TRD_IndexSum.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/数据和程序/025/TRD_IndexSum.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/《量化投资 以Python为工具》数据和程序/026/026.py" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/数据和程序/026/026.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/《量化投资 以Python为工具》数据和程序/026/sh50.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/数据和程序/026/sh50.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/《量化投资 以Python为工具》数据和程序/026/sh50.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/数据和程序/026/sh50.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/《量化投资 以Python为工具》数据和程序/026/sh50.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/数据和程序/026/sh50.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/《量化投资 以Python为工具》数据和程序/026/sh50p.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/数据和程序/026/sh50p.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/《量化投资 以Python为工具》数据和程序/026/sh50p.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/数据和程序/026/sh50p.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/《量化投资 以Python为工具》数据和程序/026/sh50price.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/数据和程序/026/sh50price.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/《量化投资 以Python为工具》数据和程序/026/shstock.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/数据和程序/026/shstock.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/《量化投资 以Python为工具》数据和程序/027/027.py" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/数据和程序/027/027.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/《量化投资 以Python为工具》数据和程序/027/SSEC2011.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/数据和程序/027/SSEC2011.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/《量化投资 以Python为工具》数据和程序/027/SSEC2012.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/数据和程序/027/SSEC2012.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/《量化投资 以Python为工具》数据和程序/027/SSEC2014.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/数据和程序/027/SSEC2014.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/《量化投资 以Python为工具》数据和程序/027/SSEC2015.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/数据和程序/027/SSEC2015.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/《量化投资 以Python为工具》数据和程序/027/candle.py" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/数据和程序/027/candle.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/《量化投资 以Python为工具》数据和程序/028/028.py" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/数据和程序/028/028.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/《量化投资 以Python为工具》数据和程序/028/Vanke.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/数据和程序/028/Vanke.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/《量化投资 以Python为工具》数据和程序/028/candle.py" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/数据和程序/028/candle.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/《量化投资 以Python为工具》数据和程序/029/029.py" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/数据和程序/029/029.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/《量化投资 以Python为工具》数据和程序/029/BOCM.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/数据和程序/029/BOCM.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/《量化投资 以Python为工具》数据和程序/030/030.py" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/数据和程序/030/030.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/《量化投资 以Python为工具》数据和程序/030/ChinaBank.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/数据和程序/030/ChinaBank.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/《量化投资 以Python为工具》数据和程序/030/TsingTao.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/数据和程序/030/TsingTao.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/《量化投资 以Python为工具》数据和程序/030/candle.py" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/数据和程序/030/candle.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/《量化投资 以Python为工具》数据和程序/030/movingAverage.py" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/数据和程序/030/movingAverage.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/《量化投资 以Python为工具》数据和程序/031/031.py" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/数据和程序/031/031.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/《量化投资 以Python为工具》数据和程序/031/ChinaUnicom.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/数据和程序/031/ChinaUnicom.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/《量化投资 以Python为工具》数据和程序/031/candle.py" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/数据和程序/031/candle.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/《量化投资 以Python为工具》数据和程序/032/032.py" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/数据和程序/032/032.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/《量化投资 以Python为工具》数据和程序/032/GSPC.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/数据和程序/032/GSPC.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/《量化投资 以Python为工具》数据和程序/032/candle.py" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/数据和程序/032/candle.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/《量化投资 以Python为工具》数据和程序/033/033.py" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/数据和程序/033/033.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/《量化投资 以Python为工具》数据和程序/033/CJSecurities.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/数据和程序/033/CJSecurities.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/《量化投资 以Python为工具》数据和程序/033/candle.py" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/数据和程序/033/candle.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/《量化投资 以Python为工具》数据和程序/034/034.py" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/数据和程序/034/034.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/《量化投资 以Python为工具》数据和程序/034/TsingTao.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/数据和程序/034/TsingTao.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/《量化投资 以Python为工具》数据和程序/034/movingAverage.py" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/数据和程序/034/movingAverage.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/《量化投资 以Python为工具》数据和程序/part2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/数据和程序/part2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/课后习题答案pdf及代码/Chapter10.py" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/课后习题答案pdf及代码/Chapter10.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/课后习题答案pdf及代码/Chapter11.py" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/课后习题答案pdf及代码/Chapter11.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/课后习题答案pdf及代码/Chapter12.py" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/课后习题答案pdf及代码/Chapter12.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/课后习题答案pdf及代码/Chapter13.py" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/课后习题答案pdf及代码/Chapter13.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/课后习题答案pdf及代码/Chapter14.py" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/课后习题答案pdf及代码/Chapter14.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/课后习题答案pdf及代码/Chapter15.py" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/课后习题答案pdf及代码/Chapter15.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/课后习题答案pdf及代码/Chapter16.py" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/课后习题答案pdf及代码/Chapter16.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/课后习题答案pdf及代码/Chapter17.py" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/课后习题答案pdf及代码/Chapter17.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/课后习题答案pdf及代码/Chapter18.py" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/课后习题答案pdf及代码/Chapter18.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/课后习题答案pdf及代码/Chapter19.py" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/课后习题答案pdf及代码/Chapter19.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/课后习题答案pdf及代码/Chapter2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/课后习题答案pdf及代码/Chapter2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/课后习题答案pdf及代码/Chapter20.py" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/课后习题答案pdf及代码/Chapter20.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/课后习题答案pdf及代码/Chapter21.py" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/课后习题答案pdf及代码/Chapter21.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/课后习题答案pdf及代码/Chapter22.py" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/课后习题答案pdf及代码/Chapter22.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/课后习题答案pdf及代码/Chapter23.py" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/课后习题答案pdf及代码/Chapter23.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/课后习题答案pdf及代码/Chapter24.py" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/课后习题答案pdf及代码/Chapter24.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/课后习题答案pdf及代码/Chapter25.py" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/课后习题答案pdf及代码/Chapter25.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/课后习题答案pdf及代码/Chapter26.py" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/课后习题答案pdf及代码/Chapter26.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/课后习题答案pdf及代码/Chapter27.py" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/课后习题答案pdf及代码/Chapter27.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/课后习题答案pdf及代码/Chapter28.py" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/课后习题答案pdf及代码/Chapter28.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/课后习题答案pdf及代码/Chapter29.py" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/课后习题答案pdf及代码/Chapter29.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/课后习题答案pdf及代码/Chapter3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/课后习题答案pdf及代码/Chapter3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/课后习题答案pdf及代码/Chapter30.py" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/课后习题答案pdf及代码/Chapter30.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/课后习题答案pdf及代码/Chapter31.py" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/课后习题答案pdf及代码/Chapter31.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/课后习题答案pdf及代码/Chapter32.py" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/课后习题答案pdf及代码/Chapter32.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/课后习题答案pdf及代码/Chapter33.py" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/课后习题答案pdf及代码/Chapter33.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/课后习题答案pdf及代码/Chapter34.py" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/课后习题答案pdf及代码/Chapter34.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/课后习题答案pdf及代码/Chapter5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/课后习题答案pdf及代码/Chapter5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/课后习题答案pdf及代码/Chapter6.py" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/课后习题答案pdf及代码/Chapter6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/课后习题答案pdf及代码/Chapter7.py" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/课后习题答案pdf及代码/Chapter7.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/课后习题答案pdf及代码/Chapter8.py" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/课后习题答案pdf及代码/Chapter8.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/课后习题答案pdf及代码/Chapter9.py" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/课后习题答案pdf及代码/Chapter9.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/课后习题答案pdf及代码/Data/Part1/012/Arthritis.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/课后习题答案pdf及代码/Data/Part1/012/Arthritis.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/课后习题答案pdf及代码/Data/Part1/012/Journals.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/课后习题答案pdf及代码/Data/Part1/012/Journals.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/课后习题答案pdf及代码/Data/Part1/012/Money.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/课后习题答案pdf及代码/Data/Part1/012/Money.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/课后习题答案pdf及代码/Data/Part1/012/mtcars.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/课后习题答案pdf及代码/Data/Part1/012/mtcars.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/课后习题答案pdf及代码/Data/Part2/001/history.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/课后习题答案pdf及代码/Data/Part2/001/history.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/课后习题答案pdf及代码/Data/Part2/002/Bwages.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/课后习题答案pdf及代码/Data/Part2/002/Bwages.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/课后习题答案pdf及代码/Data/Part2/004/managers.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/课后习题答案pdf及代码/Data/Part2/004/managers.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/课后习题答案pdf及代码/Data/Part2/005/CPS1988.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/课后习题答案pdf及代码/Data/Part2/005/CPS1988.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/课后习题答案pdf及代码/Data/Part2/005/EuStockMarkets.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/课后习题答案pdf及代码/Data/Part2/005/EuStockMarkets.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/课后习题答案pdf及代码/Data/Part3/003/TRD_Index.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/课后习题答案pdf及代码/Data/Part3/003/TRD_Index.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/课后习题答案pdf及代码/Data/Part3/003/TRD_Index.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/课后习题答案pdf及代码/Data/Part3/003/TRD_Index.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/课后习题答案pdf及代码/Data/Part3/003/industryCodes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/课后习题答案pdf及代码/Data/Part3/003/industryCodes.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/课后习题答案pdf及代码/Data/Part4/001/Yen.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/课后习题答案pdf及代码/Data/Part4/001/Yen.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/课后习题答案pdf及代码/Data/Part4/001/pfyh.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/课后习题答案pdf及代码/Data/Part4/001/pfyh.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/课后习题答案pdf及代码/Data/Part4/002/CRSPday.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/课后习题答案pdf及代码/Data/Part4/002/CRSPday.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/课后习题答案pdf及代码/Data/Part4/002/SP500.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/课后习题答案pdf及代码/Data/Part4/002/SP500.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/课后习题答案pdf及代码/Data/Part4/003/baiyun.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/课后习题答案pdf及代码/Data/Part4/003/baiyun.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/课后习题答案pdf及代码/Data/Part4/003/zgsy.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/课后习题答案pdf及代码/Data/Part4/003/zgsy.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/课后习题答案pdf及代码/Data/Part4/004/CRSPday.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/课后习题答案pdf及代码/Data/Part4/004/CRSPday.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/课后习题答案pdf及代码/Data/Part4/005/sh50.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/课后习题答案pdf及代码/Data/Part4/005/sh50.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/课后习题答案pdf及代码/Data/Part5/001/problem27-1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/课后习题答案pdf及代码/Data/Part5/001/problem27-1.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/课后习题答案pdf及代码/Data/Part5/001/problem27-2.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/课后习题答案pdf及代码/Data/Part5/001/problem27-2.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/课后习题答案pdf及代码/Data/Part5/001/problem27-3.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/课后习题答案pdf及代码/Data/Part5/001/problem27-3.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/课后习题答案pdf及代码/Data/Part5/001/problem27-4.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/课后习题答案pdf及代码/Data/Part5/001/problem27-4.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/课后习题答案pdf及代码/Data/Part5/001/sh50.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/课后习题答案pdf及代码/Data/Part5/001/sh50.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/课后习题答案pdf及代码/Data/Part5/002/problem28-1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/课后习题答案pdf及代码/Data/Part5/002/problem28-1.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/课后习题答案pdf及代码/Data/Part5/002/problem28-3.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/课后习题答案pdf及代码/Data/Part5/002/problem28-3.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/课后习题答案pdf及代码/Data/Part5/003/problem29-1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/课后习题答案pdf及代码/Data/Part5/003/problem29-1.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/课后习题答案pdf及代码/Data/Part5/003/problem29-2.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/课后习题答案pdf及代码/Data/Part5/003/problem29-2.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/课后习题答案pdf及代码/Data/Part5/004/problem30-1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/课后习题答案pdf及代码/Data/Part5/004/problem30-1.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/课后习题答案pdf及代码/Data/Part5/004/problem30-2.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/课后习题答案pdf及代码/Data/Part5/004/problem30-2.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/课后习题答案pdf及代码/Data/Part5/004/problem30-3.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/课后习题答案pdf及代码/Data/Part5/004/problem30-3.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/课后习题答案pdf及代码/Data/Part5/005/problem31-1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/课后习题答案pdf及代码/Data/Part5/005/problem31-1.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/课后习题答案pdf及代码/Data/Part5/006/problem32-2.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/课后习题答案pdf及代码/Data/Part5/006/problem32-2.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/课后习题答案pdf及代码/Data/Part5/007/problem33-1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/课后习题答案pdf及代码/Data/Part5/007/problem33-1.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/课后习题答案pdf及代码/Data/Part5/008/problem34-1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/课后习题答案pdf及代码/Data/Part5/008/problem34-1.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/课后习题答案pdf及代码/Data/Part5/008/problem34-3.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/课后习题答案pdf及代码/Data/Part5/008/problem34-3.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/课后习题答案pdf及代码/Python_ANS_20170220.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/课后习题答案pdf及代码/Python_ANS_20170220.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/课后习题答案pdf及代码/candle.py" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/课后习题答案pdf及代码/candle.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/课后习题答案pdf及代码/movingAverage.py" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/课后习题答案pdf及代码/movingAverage.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/《量化投资以Python为工具》/课后习题答案pdf及代码/路径说明.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《量化投资以Python为工具》/课后习题答案pdf及代码/路径说明.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/多因子模型/CSMAR_API.py" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Projects/多因子模型/CSMAR_API.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/多因子模型/CSMAR_API_notbook.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Projects/多因子模型/CSMAR_API_notbook.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/多因子模型/Describe.md" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Projects/多因子模型/Describe.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/量化项目快速入门/a.数据获取.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Projects/量化项目快速入门/a.数据获取.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/量化项目快速入门/re.md" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Projects/量化项目快速入门/re.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quant Books/《基于python的金融分析与风险管理》/4. matplotlib.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Qwen LLM/a_local_install.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Quant Books/《基于python的金融分析与风险管理》/3. pandas基础函数.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Books/《基于python的金融分析与风险管理》/3. pandas基础函数.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Quant Projects/多因子模型/CSMAR_API.py" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Projects/A_Multi_Factors/CSMAR_API.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Quant Projects/多因子模型/CSMAR_API_notbook.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Projects/A_Multi_Factors/CSMAR_API_notbook.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Quant Projects/多因子模型/Describe.md" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Projects/A_Multi_Factors/Describe.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Quant Projects/量化项目快速入门/a.数据获取.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Projects/Z_Quick_Start/a.数据获取.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Quant Projects/量化项目快速入门/re.md" beforeDir="false" afterPath="$PROJECT_DIR$/Quant Projects/Z_Quick_Start/re.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -235,7 +61,7 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "D:/个人文件集/Github Project/Python_About_Finance/《量化投资以Python为工具》",
+    "last_opened_file_path": "D:/个人文件集/Github Project/Python_About_Finance/Quant Books/《基于python的金融分析与风险管理》",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -252,18 +78,18 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\个人文件集\Github Project\Python_About_Finance\Quant Books\《基于python的金融分析与风险管理》" />
+      <recent name="D:\个人文件集\Github Project\Python_About_Finance\Qwen LLM" />
       <recent name="D:\个人文件集\Github Project\Python_About_Finance\《量化投资以Python为工具》" />
       <recent name="D:\个人文件集\Python_About_Finance\Qwen LLM" />
       <recent name="D:\个人文件集\Python_About_Finance\Quant Projects\B_FOF_Select\data\input" />
-      <recent name="D:\个人文件集\Python_About_Finance\基于python的金融分析与风险管理" />
-      <recent name="D:\个人文件集\Python_About_Finance\《量化投资以Python为工具》" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\个人文件集\Github Project\Python_About_Finance\Quant Projects\A_Multi_Factors" />
       <recent name="D:\个人文件集\Github Project\Python_About_Finance\Quant Books" />
       <recent name="D:\个人文件集\Github Project\Python_About_Finance\Quant Projects" />
       <recent name="D:\个人文件集\Python_About_Finance\Quant Projects\B_FOF_Select\data\output" />
       <recent name="D:\个人文件集\Python_About_Finance\Quant Projects\B_FOF_Select\data\input" />
-      <recent name="D:\个人文件集\Python_About_Finance\Quant Projects\B_FOF_Select\data" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -288,7 +114,7 @@
       <workItem from="1715502481213" duration="1949000" />
       <workItem from="1715505968978" duration="7822000" />
       <workItem from="1715523822975" duration="9347000" />
-      <workItem from="1715582253053" duration="355000" />
+      <workItem from="1715582253053" duration="994000" />
     </task>
     <servers />
   </component>
