@@ -1,7 +1,7 @@
 # 量化投资入门学习书籍
 ## 1  《基于python的金融分析与风险管理》 第二版 斯文 异步社区
 !['书籍'](./assets/book-1.jpg)
-> <img src="https://github.com/FinancePudding/Python_About_Finance/blob/main/assets/book-1.jpg" width="270" height="353">   
+> <img src="./assets/book-1.jpg" width="270" height="353">   
 >
 > * 简介：这是一本适合金融人学习量化的书籍，本科金融毕业可以顺利的学习到前8章，在本科金融领域所有涉及到的知识都可以用python语言编写，相关知识都可以在这本书上找到，作者的金融素养很高。
 > * 第八章之后，需要读者学习过《期权期货及其他衍生品》（约翰.赫尔），具备一定的基础知识之后才有可能读懂。
