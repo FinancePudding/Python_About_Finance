@@ -1,6 +1,5 @@
 # 量化投资入门学习书籍
 ## 1  《基于python的金融分析与风险管理》 第二版 斯文 异步社区
-!['书籍'](../assets/book-1.jpg)
 > <img src="../assets/book-1.jpg" width="270" height="353">   
 >
 > * 简介：这是一本适合金融人学习量化的书籍，本科金融毕业可以顺利的学习到前8章，在本科金融领域所有涉及到的知识都可以用python语言编写，相关知识都可以在这本书上找到，作者的金融素养很高。
@@ -10,7 +9,7 @@
 > * PPT上的内容与书籍高度重合，可以直接进入异步社区官网下载相关资源，课程的部分代码在本仓库中可以找到。
 > * 网址：[https://www.epubit.com/search?type=goods&keyword=%E6%96%AF%E6%96%87](https://www.epubit.com/search?type=goods&keyword=%E6%96%AF%E6%96%87)
 ## 2 《python金融实战案例精粹》第二版 斯文 异步社区
-> <img src="https://github.com/FinancePudding/Python_About_Finance/blob/main/assets/book_2.jpg" width="270" height="353">   
+> <img src="../assets/book_2.jpg" width="270" height="353">   
 >
 > * 这本书是上本书的姊妹篇，介绍了一百多个实际案例，对于《基于python的金融分析与风险管理》的学习检验效果很好.
 > * 更贴近于平时找工作的面试题多一些，对想要从事量化投资或者金融数据分析的朋友有很大的指导意义。
@@ -18,7 +17,7 @@
 > * PPT上的内容与书籍高度重合，可以直接进入异步社区官网下载相关资源,有数据这些。
 > * 网址：[https://www.epubit.com/search?type=goods&keyword=%E6%96%AF%E6%96%87](https://www.epubit.com/search?type=goods&keyword=%E6%96%AF%E6%96%87)
 ## 3 《量化投资以python为工具》 蔡立耑 
-> <img src="https://github.com/FinancePudding/Python_About_Finance/blob/main/assets/book_3.jpg" width="270" height="353">   
+> <img src="../assets/book_3.jpg" width="270" height="353">   
 >
 > * 这本书补齐了前两本对于量化选股与量化择时策略的部分，前两本书更倾向于做金融学术研究和学习，而这本书更倾向于真正想要从事投资的启蒙数据，会介绍各种策略。
 > * 虽然大部分策略都已经在市场有效性不断增加的情况下失效，但是它依然给我们提供了一些思路参考。
