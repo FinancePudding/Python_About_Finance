@@ -67,7 +67,7 @@ class QueryData:
 
     def get_mysql_data(self, connect_number: int, database_number: int, sql: str) -> pd.DataFrame:
         '''
-        连接指定数据库，并执行sql语句，返回结果
+        连接指定数据库，并执行sql语句，返回结果，这里直接使用pd.read_sql()方法，可以同时查询获取相关的sql语句或者表格数据
         :param connect_number: 连接池的编号，从0开始，代表需要连接的mysql主机端口
         :param database_number: 需要连接的db列表编号，从0开始，代表需要连接的mysql数据库
         :param sql: 需要执行的sql语句
