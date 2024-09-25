@@ -1,9 +1,6 @@
 # python about finance
 > 本仓库主要用于分享在量化投资领域的学习经验
-> + 相关视频讲解可以关注哔哩哔哩账户“金融Pudding”
-> + > + > <img src="https://github.com/FinancePudding/Python_About_Finance/blob/main/assets/bilibil.jpg" width="270" height="353">   
-> + 分享的内容不仅仅包含书本上的东西，同时还包含本人在量化投资领域的学习经验，以及相关资源的拓展。
-> + 随时欢迎各位留言交流，大家共同学习进步！
+
 # 常用的量化投资学习资源
 ## 1.人工智能工具
 ### 1.1 chatGPT 
